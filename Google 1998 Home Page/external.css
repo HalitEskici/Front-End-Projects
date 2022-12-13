@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    margin:0;
+	padding:0;
+}
+* {
+	box-sizing: border-box;
+}
+.sol-alt {
+    width: 37%;
+    padding-top: 15px;
+    text-align: center;
+    margin: 2px;
+    line-height: 0;
+    background-color: #7EE5DA;
+}
+.orta-alt{
+    width: 26%;
+    text-align: center;
+    background-color: #70CCC2;
+    margin: 2px;
+}
+.sağ-alt{
+    text-align: right; 
+    background-color: #62B3AA; 
+    width: 37%;
+    margin: 2px;
+}
