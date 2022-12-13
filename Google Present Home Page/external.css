@@ -1,0 +1,307 @@
+.body {
+    font-family: arial,sans-serif;
+    background-color: #fff;
+    color: #222;
+    font-size: small;
+}
+div {
+    display: block;
+}
+.left-nav {
+    display: block;
+    margin: 5px 5px 0px 0px;
+}
+.ln {
+    display: inline-block;
+    padding-left: 15px;
+    color: #000;
+    opacity: 0.75;
+}
+.ln:hover {
+    opacity: .85;
+    text-decoration: underline;
+}
+a {
+    text-decoration: none;
+    vertical-align: middle;
+}
+nav {
+    display: flex;
+    direction: horizontal;
+    justify-content: space-between;
+}
+.right-nav {
+    min-width: 220px;
+    z-index: 987;
+    float: right;
+    padding-left: 30px;
+    padding-right: 30px;
+    position: relative;
+    text-align: right;
+    align-items: center;
+    justify-content: flex-end;
+    margin-left: 0!important;
+    margin-right: 0!important;
+    white-space: nowrap;
+    display: flex;
+    float: right;
+}
+.rn-left {
+    padding-right: 15px;
+    margin-left: 0!important;
+    margin-right: 0!important;
+    line-height: normal;
+    white-space: nowrap;
+}
+.rn-left :hover {
+    opacity: .85;
+    text-decoration: underline;
+}
+.rn-left a {
+    color: rgba(0,0,0,0.87);
+    text-decoration: none;
+}
+.rn-right {
+    min-width: 114px;
+    line-height: normal;
+    position: relative;
+    text-align: center;
+    margin-left: 0!important;
+    margin-right: 0!important;
+    display: flex;
+    float: right;
+}
+#svg {
+    background-image: url(https://web.archive.org/web/20191201000239im_/https://ssl.gstatic.com/gb/images/i1_1967ca6a.png);
+    -webkit-background-size: 528px 68px;
+    background-size: 528px 68px;
+    background-position: -132px -38px;
+    opacity: .55;
+    color: #000;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+    outline: none;
+    vertical-align: middle;
+    border-radius: 2px;
+    box-sizing: border-box;
+    height: 30px;
+    width: 30px;
+}
+#rn-r {
+    display: inline-block;
+    padding: 0 0 0 15px;
+    position: relative;
+    vertical-align: middle;
+}
+#rn-r a{
+    cursor: default;
+    text-decoration: none;
+    color: #fff;
+    background: -webkit-linear-gradient(top,#4387fd,#4683ea);
+    border: 1px solid #4285f4;
+    font-weight: bold;
+    outline: none;
+    display: inline-block;
+    line-height: 28px;
+    padding: 0 12px;
+    border-radius: 2px;
+    text-align: left;
+    white-space: nowrap;
+}
+.content {
+    padding-bottom: 35px;
+}
+.ctr-p {
+    display: block;
+    min-width: 1139px;
+    margin: 0 auto;
+    text-align: -webkit-center;
+}
+#lga {
+    margin-top: 47px;
+    height: 233px;
+}
+.search-box {
+    width: 584px;
+    position: relative;
+    margin: 0 auto;
+    padding-top: 6px;
+}
+.box {
+    width: 582px;
+    background-color: #fff;
+    display: flex;
+    border: 1px solid #dfe1e5;
+    box-shadow: none;
+    border-radius: 24px;
+    z-index: 3;
+    height: 44px;
+    margin: 0 auto;
+}
+.inside {
+    flex: 1;
+    display: flex;
+    padding: 5px 8px 0px 16px;
+    padding-left: 14px;
+}
+.search {
+    display: flex;
+    align-items: center;
+    padding-right: 13px;
+    margin-top: -5px;
+}
+.search-1 {
+    margin: auto;
+}
+.search-1 span {
+    color: #9AA0A6;
+    height: 20px;
+    width: 20px;
+    margin-top: 3px;
+    line-height: 24px;
+    position: relative;
+    display: inline-block;
+    fill: currentColor;
+}
+.empty-side {
+    display: flex;
+    flex: 1;
+    flex-wrap: wrap;
+}
+.vdLsw {
+    color: transparent;
+    flex: 100%;
+    white-space: pre;
+}
+.gsfi{
+    font: 16px arial,sans-serif;
+    line-height: 34px;
+    height: 34px !important;
+}
+.gLFyf {
+    background-color: transparent;
+    border: none;
+    margin: 0;
+    padding: 0;
+    color: rgba(0,0,0,.87);
+    word-wrap: break-word;
+    outline: none;
+    display: flex;
+    flex: 100%;
+    -webkit-tap-highlight-color: transparent;
+    margin-top: -67px;
+}
+.voice-button {
+    display: flex;
+    flex: 0 0 auto;
+    margin-top: -5px;
+    align-items: stretch;
+    flex-direction: row;
+}
+.hpuQDe {
+    flex: 1 0 auto;
+    display: flex;
+    cursor: pointer;
+    align-items: center;
+    border: 0;
+    background: transparent;
+    outline: none;
+    padding: 0 8px;
+    width: 24px;
+    line-height: 44px;
+}
+.HPVvwb {
+    background: url(https://web.archive.org/web/20191130234609im_/https://www.gstatic.com/images/branding/googlemic/2x/googlemic_color_24dp.png) 0 0 no-repeat;
+    height: 24px;
+    width: 24px;
+    background-size: 24px;
+    vertical-align: middle;
+}
+#click-search {
+    height: 70px;
+    padding-top: 18px;
+    top: 53px;
+    width: 487px;
+    z-index: 0;
+    margin: auto;
+}
+.gNO89b {
+    background-image: -webkit-linear-gradient(top,#f5f5f5,#f1f1f1);
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    color: #5F6368;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+
+.gNO89b:hover{
+    box-shadow: 0 1px 1px rgb(0 0 0 / 10%);
+    background-color: #f8f8f8;
+    border: 1px solid #c6c6c6;
+    color: #222;
+}
+#svg:hover {
+    color: #000;
+    cursor: pointer;
+    text-decoration: none;
+    opacity: .85;
+}
+footer {
+    display: block;
+    bottom: 0;
+    font-size: 10pt;
+    height: 35px;
+    position: fixed;
+    width: 100%;
+    margin: 0 auto;
+    min-width: 980px;
+}
+footer div {
+    background: #f2f2f2;
+    line-height: 40px;
+    min-width: 980px;
+    border-top: 1px solid #e4e4e4;
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    right: 0;
+    font-size: 14px;
+    margin-left: -27px;
+}
+#bottom-left {
+    margin-left: 30px;
+    white-space: nowrap;
+}
+.Fx4vi {
+    display: inline-block;
+    color: #5f6368;
+    text-decoration: none;
+    white-space: nowrap;
+    padding-left: 27px;
+    margin: 0 !important;
+}
+.Fx4vi:hover {
+    text-decoration: underline;
+}
+#bottom-right {
+    margin-right: 30px;
+    float: right;
+    white-space: nowrap;
+}
+#fsettl {
+    text-decoration: none;
+    white-space: nowrap;
+}
+#fsettl:hover {
+    text-decoration: underline;
+}
