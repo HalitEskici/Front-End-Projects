@@ -1,0 +1,56 @@
+body {
+    background-color: #E9ECEF;
+    padding: 0;
+}
+
+header {
+    margin-bottom: 10px;
+}
+
+header div a {
+    text-decoration: none;
+}
+
+a {
+    padding-right: 20px;
+}
+
+p {
+    color: #001E6C;
+}
+
+article > p > a {
+    padding-right: 0;
+}
+
+.col-12 a {
+    color: #6c757d;
+}
+
+.btn-hover:hover {
+    color: white;
+}
+
+main {
+    padding: 0 200px;
+}
+
+.centered-elements {
+    text-align: center;
+    list-style-type: none;
+}
+
+.margin10 {
+    margin-bottom: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 0 200px;
+}
+
+.book-cards {
+    width: 400px !important;
+    height: 500px !important;
+    margin: 0 auto !important;
+}
