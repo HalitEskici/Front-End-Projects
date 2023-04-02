@@ -21,4 +21,4 @@ Our store page consists of:
 - Name of the authors or publishers
 - Current prices of the books
 
-We hope you enjoy browsing and shopping at our Bookstore website!
+    We hope you enjoy browsing and shopping at our Bookstore website!
